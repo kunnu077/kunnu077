@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">Roshan Gorakhpuriya</span> 👋</h1>
+<h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">Kunal Kushwah</span> 👋</h1>
 
 <p align="center">
 💻 MERN Stack Developer | 🧠 C++ & DSA Enthusiast | 🚀 Always Learning
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RoshanGorakhpuriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=kunnu077&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 ---
@@ -81,23 +81,23 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanGorakhpuriya&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanGorakhpuriya&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunnu077&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunnu077&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanGorakhpuriya&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunnu077&theme=tokyo-night" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://roshangorakhpuriya-portfolionetlify.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/roshan-gorakh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/RoshanGorakhpuriya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/roshan_gorakhpuriya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/roshangorax8aa/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://kunal-kushwah-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kunal-kushwah-3b1b19282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kunnu077"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/kunal_kushwah_07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
