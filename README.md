@@ -18,7 +18,6 @@
 🌱 Currently exploring **Cloud Deployment & Microservices**  
 🎯 Focused on **building scalable full-stack web apps**  
 ⚙️ Experienced in **MERN Stack** and **API Development**  
-🧩 Solved **500+ DSA problems** on [LeetCode](https://leetcode.com/u/roshan_gorakhpuriya/) & [GeeksforGeeks](https://www.geeksforgeeks.org/user/roshangorax8aa/)  
 🎓 Pursuing **B.Tech CSE (2022–26)** at *Acropolis Institute of Technology and Research, Indore*  
 
 ---
